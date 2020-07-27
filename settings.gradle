@@ -1,0 +1,5 @@
+include ':butterknife-api'
+include ':annotation-complier-lib'
+include ':annotaionlib'
+include ':app'
+rootProject.name = "ButterknifeDemo"
